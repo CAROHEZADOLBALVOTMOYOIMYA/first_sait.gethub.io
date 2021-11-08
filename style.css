@@ -1,0 +1,209 @@
+#menu a {
+	text-decoration: none;
+	display: block;
+	color: white;
+	line-height: 20px;
+	padding: 8px 16px;
+	width: 100%;
+	border-radius: 10px;
+	box-sizing: border-box;
+
+}
+#menu h2 {
+	color: white;
+	padding-left: 20px;
+}
+#menu {
+	background-color: #9530FF;
+	width: 150px;
+	height: 100%;
+	border-radius: 15px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	padding: 10px 20px;
+	font-weight: bold;
+
+}
+#menu a:hover {
+	color: black;
+	background-color: white;
+
+}
+.vse {
+	margin-left: 350px;
+	margin-right: 80px;
+}
+#prevu h1 {
+	font-size: 65px;
+	margin-top: 0;
+}
+#prevu h2 {
+	color:  #9530FF;
+	font-size: 45px;
+}
+
+.primer img {
+	width: 45%;
+	margin-right: 10px;
+	margin-top: 10px;
+	border-radius: 20px;
+	opacity: 0.7;
+}
+
+.primer img:hover {
+	opacity: 1;
+}
+
+#prevu {
+	margin-bottom: 60px;
+}
+#service h2 {
+	font-size: 50px;
+	color:  #9530FF;
+}
+.r {
+	max-width: 1000px;
+	font-size: 23px;
+}
+#Disegners h2 {
+	font-size: 50px;
+	color:  #9530FF;
+}
+.m {
+	font-weight: 900;
+	font-size: 35px;
+}
+.person {
+	display: inline-block;
+	width: 28%;
+	margin: 0 15px;
+}
+.person img {
+	width: 100%;
+	margin-right: 0;
+	border-radius: 20px;
+	filter: grayscale(30%);
+}
+.personO {
+	background-color: #F2F2F0;
+	border-radius: 10px;
+	
+	padding: 10px 15px;
+}
+.greyp {
+	font-size: 30px;
+	opacity: 0.5;
+}
+.info {
+	font-size: 30px;
+}
+#packages h2 {
+	font-size: 50px;
+	color:  #9530FF;
+}
+.spisok {
+	display: inline-block;
+	list-style-type: none;
+	text-align: center;
+	border-radius: 10px;
+	background-color: #F2F2F0;
+	padding-left: 0;
+	margin-right: 20px;
+	width: 45%;
+	vertical-align: middle;
+	
+
+} 
+.k {
+	font-size: 24px;
+	padding: 25px 30px;
+	background-color:  #F2F2F0;
+	border-bottom: 1px solid #ccc; 
+	border-radius: 15px;
+}
+.name {
+	font-size: 34px;
+	background-color:  #9530FF;
+	color: white;
+	padding: 35px; 
+	border-radius: 15px;
+	}
+
+.namilis {
+	font-size: 34px;
+	background-color: #F63755;
+	color: white;
+	padding: 35px;
+	border-radius: 15px;
+}
+.sulka{
+	padding: 20px 30px;
+	border-bottom: 1px solid #ccc; 
+	border-radius: 15px;
+	color: #9530FF;
+
+}
+
+#packages a {
+	text-decoration: none;
+	font-size: 40px;
+	width: 80px;
+	padding: 0 60px;
+
+}
+.sulkatop {
+	background-color: white;
+	padding: 8px 9px;
+	border-radius: 10px;
+}
+#packages a:hover {
+	color: black;
+	background-color: #20E809;
+	box-shadow: 0px 0px 20px 0 yellow;
+}
+.sulkatop1 {
+	background-color: #F63755;
+	padding: 8px 9px;
+	border-radius: 10px;
+	color: white;
+}
+
+
+hr {
+	width: 100%;
+	border-radius: 10px;
+	border: 5px solid #9530FF;
+}
+#contact h2 {
+	color:  #9530FF;
+	font-size: 45px;
+}
+#contact input {
+	display: block;
+	width: 80%;
+	padding: 10px 0;
+	margin-top: 10px;
+}
+
+#contact label {
+		font-size: 20px;
+		margin-top: 10px;
+}
+#contact button {
+	margin: 0 auto;
+	margin-top: 10px;
+	display: inline-block;
+	text-align: center;
+	width: 80%;
+	padding: 15px 0;
+	background-color: #9530FF;
+	color: white;
+	border-radius: 	10px;
+	border: none;	
+	outline: none;	
+	cursor: pointer;
+}
+#contact button:hover {
+	opacity: 	0.5;
+}
